@@ -11,7 +11,6 @@
 ## 🌐 Live Demo
 
 **Try it here**: [https://inviteflow.netlify.app/](https://inviteflow.netlify.app/)  
-*(Replace this link with your actual deployed app URL.)*
 
 ---
 
